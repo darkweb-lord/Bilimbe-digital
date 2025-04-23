@@ -40,8 +40,8 @@ This embedded systems project uses an LPC21xx microcontroller to detect taps and
 
 ## 🎥 Demo
 
--[ ][proteus simulation](https://youtu.be/PORfqftTYU4)
--[ ][Hardware video](https://youtu.be/XlWRMiy2hcc)
+-[ ] [proteus simulation](https://youtu.be/PORfqftTYU4)
+-[ ] [Hardware video](https://youtu.be/XlWRMiy2hcc)
 
 ---
 
